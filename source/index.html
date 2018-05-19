@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Simple way to check off challenges as you complete them in Fortnite Battle Royale.">
     <title>Fortnite Challenge Checklist</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <link rel="stylesheet" href="./styles.css">
@@ -15,6 +16,19 @@
 
       gtag('config', 'UA-28026409-7');
     </script>
+    <script src="./jquery.js"></script>
+    <script>
+      $(document).ready(() => {
+        $('input').click((e) => {
+          console.log(e.target.name);
+          gtag('event', 'click', {
+            'event_category': 'challenge',
+            'event_label': e.target.name,
+            'value': 1
+          });
+        });
+      })
+    </script>
   </head>
   <body>
     <header>
@@ -24,11 +38,6 @@
     <div class="challenge-group">
       <h2>Week 3 Challenges</h2>
       <ul>
-        <li>
-          <label>
-            <input type="checkbox" name="3.1" value=""> Watch a Match Replay
-          </label>
-        </li>
         <li>
           <label>
             <input type="checkbox" name="3.2" value=""> Deal damage with Pistols to opponents
@@ -57,6 +66,11 @@
         <li>
           <label>
             <input type="checkbox" name="3.7" value=""> Eliminate opponents in Tilted Towers (HARD)
+          </label>
+        </li>
+        <li>
+          <label>
+            <input type="checkbox" name="3.8" value=""> Revive Players
           </label>
         </li>
       </ul>
@@ -231,6 +245,47 @@
         <li>
           <label>
             <input type="checkbox" name="b.5" value=""> Complete all challenges in 7 different weeks
+          </label>
+        </li>
+      </ul>
+    </div>
+
+    <div class="challenge-group">
+      <h2>Starter Challenges</h2>
+      <ul>
+        <li>
+          <label>
+            <input type="checkbox" name="s.1" value=""> Outlive Opponents (1000)
+          </label>
+        </li>
+        <li>
+          <label>
+            <input type="checkbox" name="s.2" value=""> Play matches with friends (10)
+          </label>
+        </li>
+        <li>
+          <label>
+            <input type="checkbox" name="s.3" value=""> Deal damage to opponents
+          </label>
+        </li>
+        <li>
+          <label>
+            <input type="checkbox" name="s.4" value=""> Land at different Named Locations (10)
+          </label>
+        </li>
+        <li>
+          <label>
+            <input type="checkbox" name="s.5" value=""> Play Matches (50)
+          </label>
+        </li>
+        <li>
+          <label>
+            <input type="checkbox" name="s.6" value=""> Play matches with at least one elimination (10)
+          </label>
+        </li>
+        <li>
+          <label>
+            <input type="checkbox" name="s.7" value=""> Win a Match (HARD)
           </label>
         </li>
       </ul>

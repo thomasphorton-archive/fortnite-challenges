@@ -1,2 +1,2 @@
 #! /bin/sh
-aws s3 sync ./source s3://fortnite-challenges
+aws s3 sync build 's3://fortnite-challenges'

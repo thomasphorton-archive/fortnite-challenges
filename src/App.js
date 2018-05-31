@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <div className="App">
         <header>
-          <h1>Fortnite Challenge Checklistt</h1>
+          <h1>Fortnite Challenge Checklist</h1>
         </header>
 
         {Challenges.map((group, index) => {

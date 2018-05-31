@@ -1,5 +1,39 @@
 [
   {
+    "id": "5",
+    "title": "Week 5 Challenges",
+    "challenges": [
+      {
+        "id": "5.1",
+        "text": "Deal damage with SMGs to opponents (0/500)"
+      },
+      {
+        "id": "5.2",
+        "text": "Search Chests in Dusty Divot (0/7)"
+      },
+      {
+        "id": "5.3",
+        "text": "Use a Vending Machine (0/3)"
+      },
+      {
+        "id": "5.4",
+        "text": "Dance with others to raise the Disco Ball near Loot Lake"
+      },
+      {
+        "id": "5.5",
+        "text": "Follow the <a href=\"https://www.eurogamer.net/articles/2018-05-31-fortnite-greasy-grove-treasure-map-5795\" target=\"_blank\">treasure map in Greasy Grove</a>. (HARD)"
+      },
+      {
+        "id": "5.6",
+        "text": "Minigun or Light Machine Gun Eliminations (0/2) (HARD)"
+      },
+      {
+        "id": "5.7",
+        "text": "Eliminate opponents in Lucky Landing (0/3) (HARD)"
+      }
+    ]
+  },
+  {
     "id": "4",
     "title": "Week 4 Challenges",
     "challenges": [
@@ -89,7 +123,7 @@
       },
       {
         "id": "2.5",
-        "text": " <a href=\"https://cdn.gamer-network.net/2018/articles/2018-05-08-10-51/scarecrow_pink_hotrod_big_screen.jpg\" target=\"_blank\">Search between a Scarecrow, Pink Hotrod, and a Big Screen</a> (HARD)"
+        "text": "<a href=\"https://cdn.gamer-network.net/2018/articles/2018-05-08-10-51/scarecrow_pink_hotrod_big_screen.jpg\" target=\"_blank\">Search between a Scarecrow, Pink Hotrod, and a Big Screen</a> (HARD)"
       },
       {
         "id": "2.6",
@@ -192,6 +226,40 @@
       {
         "id": "b.7",
         "text": "Complete all challenges in 7 different weeks"
+      }
+    ]
+  },
+  {
+    "id": "s",
+    "title": "Starter Challenges",
+    "challenges": [
+      {
+        "id": "s.1",
+        "text": "Outlive Opponents"
+      },
+      {
+        "id": "s.2",
+        "text": "Play matches with friends"
+      },
+      {
+        "id": "s.3",
+        "text": "Deal damage to opponents"
+      },
+      {
+        "id": "s.4",
+        "text": "Land at different Named Locations"
+      },
+      {
+        "id": "s.5",
+        "text": "Play Matches"
+      },
+      {
+        "id": "s.6",
+        "text": "Play matches with at least one elmination"
+      },
+      {
+        "id": "s.7",
+        "text": "Win a Match (HARD)"
       }
     ]
   }

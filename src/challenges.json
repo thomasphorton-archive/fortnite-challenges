@@ -1,5 +1,175 @@
 [
   {
+    "id": "10",
+    "title": "Week 10 Challenges",
+    "challenges": [
+      {
+        "id": "10.1",
+        "text": "Search Chests in Junk Junction (0/7)"
+      },
+      {
+        "id": "10.2",
+        "text": "Deal damage to opponents structures (0/5000)"
+      },
+      {
+        "id": "10.3",
+        "text": "Search a Chest, Ammo Box, & Supply Drop in a single match (0/3)"
+      },
+      {
+        "id": "10.4",
+        "text": "Skydive through floating Rings"
+      },
+      {
+        "id": "10.5",
+        "text": "Search between movie titles (HARD)"
+      },
+      {
+        "id": "10.6",
+        "text": "Eliminate Opponents (0/10) (HARD)"
+      },
+      {
+        "id": "10.7",
+        "text": "Eliminate opponents in Fatal Fields (0/3) (HARD)"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Week 9 Challenges",
+    "challenges": [
+      {
+        "id": "9.1",
+        "text": "Deal damage with Explosive Weapons to opponents (0/500)"
+      },
+      {
+        "id": "9.2",
+        "text": "Search Chests in Moisty Mire (0/7)"
+      },
+      {
+        "id": "9.3",
+        "text": "Use a Shopping Cart (0/1)"
+      },
+      {
+        "id": "9.4",
+        "text": "Visit the center of Named Locations in a Single Match (0/4)"
+      },
+      {
+        "id": "9.5",
+        "text": "Follow the treasure map found in Haunted Hills (HARD)"
+      },
+      {
+        "id": "9.6",
+        "text": "Shotgun Eliminations (0/2) (HARD)"
+      },
+      {
+        "id": "9.7",
+        "text": "Eliminate opponents in Anarchy Acres (0/3) (HARD)"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Week 8 Challenges",
+    "challenges": [
+      {
+        "id": "8.1",
+        "text": "Deal Headshot Damage to opponents (0/250)"
+      },
+      {
+        "id": "8.2",
+        "text": "Search Chests in Salty Springs (0/7)"
+      },
+      {
+        "id": "8.3",
+        "text": "Search 7 Chests in a single match"
+      },
+      {
+        "id": "8.4",
+        "text": "Search Hungry Gnomes"
+      },
+      {
+        "id": "8.5",
+        "text": "Search between a Bear, Crater, and a Refrigerator Shipment (HARD)"
+      },
+      {
+        "id": "8.6",
+        "text": "Suppressed Weapon eliminations (0/3) (HARD)"
+      },
+      {
+        "id": "8.7",
+        "text": "Eliminate opponents in Pleasant Park (0/3) (HARD)"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Week 7 Challenges",
+    "challenges": [
+      {
+        "id": "7.1",
+        "text": "Deal damage with a pickaxe to opponents (0/250)"
+      },
+      {
+        "id": "7.2",
+        "text": "Search Chests in Risky Reels (0/7)"
+      },
+      {
+        "id": "7.3",
+        "text": "Consume Hop Rocks, Apples, or Mushrooms (0/20)"
+      },
+      {
+        "id": "7.4",
+        "text": "Score a goal on different pitches. (0/5)"
+      },
+      {
+        "id": "7.5",
+        "text": "Follow the treasure map found in Pleasant Park (HARD)"
+      },
+      {
+        "id": "7.6",
+        "text": "Assault Rifle Eliminations (0/5) (HARD)"
+      },
+      {
+        "id": "7.7",
+        "text": "Eliminate opponents in Shifty Shafts (0/3) (HARD)"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Week 6 Challenges",
+    "challenges": [
+      {
+        "id": "6.1",
+        "text": "Search Supply Drops (0/3)"
+      },
+      {
+        "id": "6.2",
+        "text": "Deal damage with Shotguns to opponents (0/1000)"
+      },
+      {
+        "id": "6.3",
+        "text": "Search Chests in Loot Lake"
+      },
+      {
+        "id": "6.4",
+        "text": "Spray over different Carbide or Omega Posters"
+      },
+      {
+        "id": "6.5",
+        "text": "Search between a Playground, Campsite, and a Footprint (HARD)"
+      },
+      {
+        "id": "6.6",
+        "text": "SMG Eliminations (0/2) (HARD)"
+      },
+      {
+        "id": "6.7",
+        "text": "Eliminate opponents in Retail Row (0/3) (HARD)"
+      }
+    ]
+  },
+  {
     "id": "5",
     "title": "Week 5 Challenges",
     "challenges": [

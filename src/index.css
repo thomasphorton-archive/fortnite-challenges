@@ -1,7 +1,11 @@
+html {
+  background: #1F1F1F;
+}
+
 body {
   font-family: 'Open Sans', sans-serif;
-  color: #333;
-  max-width: 640px;
+  color: #F1F1F1;
+  max-width: 720px;
   margin: 0 auto;
 }
 
@@ -18,10 +22,46 @@ footer {
   border-top: 1px solid #333;
 }
 
+.challenge-group ul {
+  padding: 0 0.5rem;
+}
+
+.challenge-group .challenge-group h2 {
+  border-left-color: #17c2fe;
+}
+
+.challenge-group .challenge-group .challenge-group h2 {
+  border-left-color: #c272d9;
+}
+
+h1,
+h2 {
+  border-left: 0.4rem solid #F1ED62;
+  padding-left: 1.2rem;
+  color: #9a9a9a;
+}
+
+h2:hover {
+  cursor: pointer;
+  background-color: #2F2F2F;
+}
+
+input[type="checkbox"] {
+  margin-right: 0.5rem;
+}
+
 @media (max-width: 640px) {
 
   .challenge-group {
     padding: 0.5em;
+  }
+
+  .challenge-group .challenge-group {
+    padding: 0;
+  }
+
+  .challenge-group ul {
+    padding: 0;
   }
 
   header {
@@ -29,7 +69,7 @@ footer {
   }
 
   h2 {
-    margin: 0;
+    margin: 0.4rem 0;
   }
 
   li {

@@ -8,8 +8,10 @@ class Challenge extends Component {
       isChecked: false
     };
 
-    if (localStorage.getItem(props.challenge.id)) {
-      this.state = JSON.parse(localStorage.getItem(props.challenge.id.toString()));
+    console.log(props);
+
+    if (localStorage.getItem(props.id)) {
+      this.state = JSON.parse(localStorage.getItem(props.id.toString()));
     };
 
     this.handleInputChange = this.handleInputChange.bind(this);
@@ -18,7 +20,7 @@ class Challenge extends Component {
   handleInputChange(event) {
     const target = event.target;
     const value = target.type === 'checkbox' ? target.checked : target.value;
-    const id = this.props.challenge.id.toString();
+    const id = this.props.id.toString();
 
     this.setState({
       isChecked: value
@@ -29,7 +31,7 @@ class Challenge extends Component {
     ReactGA.event({
       category: 'challenge',
       action: 'click',
-      label: id,
+      label: this.props.id,
       value: 1
     });
   }
@@ -45,11 +47,19 @@ class Challenge extends Component {
       <li>
         <label>
           <input
-            name={this.props.challenge.id}
+            name={this.props.id}
             type="checkbox"
             checked={this.state.isChecked}
             onChange={this.handleInputChange} />
           <span dangerouslySetInnerHTML={this.createMarkup()}/>
+
+          {this.props.challenge.max &&
+              <span>   (0/{this.props.challenge.max})</span>
+          }
+
+          {this.props.challenge.difficulty === 'hard' &&
+              <span>   (HARD)</span>
+          }
         </label>
       </li>
     )

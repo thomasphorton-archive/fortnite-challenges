@@ -1,21 +1,54 @@
-import React from 'react';
+import React, {Component} from 'react';
 import Challenge from '../Challenge'
 
-function ChallengeGroup(props) {
+class ChallengeGroup extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      isHidden: false
+    }
+  }
 
-  var group = props.group;
-  var challenges = group.challenges;
+  toggleHidden() {
+    this.setState({
+      isHidden: !this.state.isHidden
+    });
+  }
 
-  return (
-    <div className="challenge-group">
-      <h2>{props.group.title}</h2>
-      <ul>
-        {challenges.map((challenge, index) => {
-          return <Challenge key={challenge.id} challenge={challenge}/>
-        })}
-      </ul>
-    </div>
-  )
+  render() {
+    var data = this.props.data;
+
+    return (
+      <div className="challenge-group">
+        <h2 onClick={this.toggleHidden.bind(this)}>{data.title}</h2>
+        {!this.state.isHidden && <ul>
+          {
+            data.challenges.map((challenge, index) => {
+
+              // Support nested challenges.
+              if (Array.isArray(challenge.challenges)) {
+                let id = `${this.props.id}.${challenge.id}`;
+                return <ChallengeGroup
+                  key={id}
+                  id={id}
+                  data={challenge}
+                />
+
+              } else {
+                let id = `${this.props.id}.${challenge.id}`;
+                return <Challenge
+                  key={id}
+                  id={id}
+                  challenge={challenge}
+                />
+              }
+            }
+          )}
+        </ul>
+      }
+      </div>
+    )
+  }
 }
 
 export default ChallengeGroup;

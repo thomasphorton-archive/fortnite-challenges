@@ -1,436 +1,204 @@
-[
-  {
-    "id": "10",
-    "title": "Week 10 Challenges",
-    "challenges": [
-      {
-        "id": "10.1",
-        "text": "Search Chests in Junk Junction (0/7)"
-      },
-      {
-        "id": "10.2",
-        "text": "Deal damage to opponents structures (0/5000)"
-      },
-      {
-        "id": "10.3",
-        "text": "Search a Chest, Ammo Box, & Supply Drop in a single match (0/3)"
-      },
-      {
-        "id": "10.4",
-        "text": "Skydive through floating Rings"
-      },
-      {
-        "id": "10.5",
-        "text": "Search between movie titles (HARD)"
-      },
-      {
-        "id": "10.6",
-        "text": "Eliminate Opponents (0/10) (HARD)"
-      },
-      {
-        "id": "10.7",
-        "text": "Eliminate opponents in Fatal Fields (0/3) (HARD)"
-      }
-    ]
-  },
-  {
-    "id": "9",
-    "title": "Week 9 Challenges",
-    "challenges": [
-      {
-        "id": "9.1",
-        "text": "Deal damage with Explosive Weapons to opponents (0/500)"
-      },
-      {
-        "id": "9.2",
-        "text": "Search Chests in Moisty Mire (0/7)"
-      },
-      {
-        "id": "9.3",
-        "text": "Use a Shopping Cart (0/1)"
-      },
-      {
-        "id": "9.4",
-        "text": "Visit the center of Named Locations in a Single Match (0/4)"
-      },
-      {
-        "id": "9.5",
-        "text": "Follow the treasure map found in Haunted Hills (HARD)"
-      },
-      {
-        "id": "9.6",
-        "text": "Shotgun Eliminations (0/2) (HARD)"
-      },
-      {
-        "id": "9.7",
-        "text": "Eliminate opponents in Anarchy Acres (0/3) (HARD)"
-      }
-    ]
-  },
-  {
-    "id": "8",
-    "title": "Week 8 Challenges",
-    "challenges": [
-      {
-        "id": "8.1",
-        "text": "Deal Headshot Damage to opponents (0/250)"
-      },
-      {
-        "id": "8.2",
-        "text": "Search Chests in Salty Springs (0/7)"
-      },
-      {
-        "id": "8.3",
-        "text": "Search 7 Chests in a single match"
-      },
-      {
-        "id": "8.4",
-        "text": "Search Hungry Gnomes"
-      },
-      {
-        "id": "8.5",
-        "text": "Search between a Bear, Crater, and a Refrigerator Shipment (HARD)"
-      },
-      {
-        "id": "8.6",
-        "text": "Suppressed Weapon eliminations (0/3) (HARD)"
-      },
-      {
-        "id": "8.7",
-        "text": "Eliminate opponents in Pleasant Park (0/3) (HARD)"
-      }
-    ]
-  },
-  {
-    "id": "7",
-    "title": "Week 7 Challenges",
-    "challenges": [
-      {
-        "id": "7.1",
-        "text": "Deal damage with a pickaxe to opponents (0/250)"
-      },
-      {
-        "id": "7.2",
-        "text": "Search Chests in Risky Reels (0/7)"
-      },
-      {
-        "id": "7.3",
-        "text": "Consume Hop Rocks, Apples, or Mushrooms (0/20)"
-      },
-      {
-        "id": "7.4",
-        "text": "Score a goal on different pitches. (0/5)"
-      },
-      {
-        "id": "7.5",
-        "text": "Follow the treasure map found in Pleasant Park (HARD)"
-      },
-      {
-        "id": "7.6",
-        "text": "Assault Rifle Eliminations (0/5) (HARD)"
-      },
-      {
-        "id": "7.7",
-        "text": "Eliminate opponents in Shifty Shafts (0/3) (HARD)"
-      }
-    ]
-  },
-  {
-    "id": "6",
-    "title": "Week 6 Challenges",
-    "challenges": [
-      {
-        "id": "6.1",
-        "text": "Search Supply Drops (0/3)"
-      },
-      {
-        "id": "6.2",
-        "text": "Deal damage with Shotguns to opponents (0/1000)"
-      },
-      {
-        "id": "6.3",
-        "text": "Search Chests in Loot Lake"
-      },
-      {
-        "id": "6.4",
-        "text": "Spray over different Carbide or Omega Posters"
-      },
-      {
-        "id": "6.5",
-        "text": "Search between a Playground, Campsite, and a Footprint (HARD)"
-      },
-      {
-        "id": "6.6",
-        "text": "SMG Eliminations (0/2) (HARD)"
-      },
-      {
-        "id": "6.7",
-        "text": "Eliminate opponents in Retail Row (0/3) (HARD)"
-      }
-    ]
-  },
-  {
-    "id": "5",
-    "title": "Week 5 Challenges",
-    "challenges": [
-      {
-        "id": "5.1",
-        "text": "Deal damage with SMGs to opponents (0/500)"
-      },
-      {
-        "id": "5.2",
-        "text": "Search Chests in Dusty Divot (0/7)"
-      },
-      {
-        "id": "5.3",
-        "text": "Use a Vending Machine (0/3)"
-      },
-      {
-        "id": "5.4",
-        "text": "Dance with others to raise the Disco Ball near Loot Lake"
-      },
-      {
-        "id": "5.5",
-        "text": "Follow the <a href=\"https://www.eurogamer.net/articles/2018-05-31-fortnite-greasy-grove-treasure-map-5795\" target=\"_blank\">treasure map in Greasy Grove</a>. (HARD)"
-      },
-      {
-        "id": "5.6",
-        "text": "Minigun or Light Machine Gun Eliminations (0/2) (HARD)"
-      },
-      {
-        "id": "5.7",
-        "text": "Eliminate opponents in Lucky Landing (0/3) (HARD)"
-      }
-    ]
-  },
-  {
-    "id": "4",
-    "title": "Week 4 Challenges",
-    "challenges": [
-      {
-        "id": "4.1",
-        "text": "Deal damage with Assault Rifles to opponents (0/1000)"
-      },
-      {
-        "id": "4.2",
-        "text": "Search Chests in Wailing Woods (0/7)"
-      },
-      {
-        "id": "4.3",
-        "text": "Search 7 Ammo Boxes in a single match"
-      },
-      {
-        "id": "4.4",
-        "text": "Visit the center of different Storm Circles in a single match (0/3)"
-      },
-      {
-        "id": "4.5",
-        "text": "Search between <a href=\"https://assets.vg247.com/current//2018/05/fortnite_map_search_helicopter_bench_truck-1152x1152.jpg\" target=\"_blank\">a Bench, Ice Cream Truck, and a Helicopter</a>. (HARD)"
-      },
-      {
-        "id": "4.6",
-        "text": "Trap Eliminations (0/1) (HARD)"
-      },
-      {
-        "id": "4.7",
-        "text": "Eliminate opponents in Snobby Shores (0/3) (HARD)"
-      }
-    ]
-  },
-  {
-    "id": "3",
-    "title": "Week 3 Challenges",
-    "challenges": [
-      {
-        "id": "3.2",
-        "text": "Deal damage with Pistols to opponents"
-      },
-      {
-        "id": "3.3",
-        "text": "Search Chests in Lonely Lodge"
-      },
-      {
-        "id": "3.4",
-        "text": "Search <a href=\"https://assets.vg247.com/current/2018/05/baxocm38z0y01-1152x1152.jpg\" target=\"_blank\">Rubber Duckies</a>"
-      },
-      {
-        "id": "3.5",
-        "text": "Follow the <a href=\"https://assets.vg247.com/current/2018/05/dtqqtpv9azx01.png\" target=\"_blank\">treasure map found in Salty Springs</a> (HARD)"
-      },
-      {
-        "id": "3.6",
-        "text": "Sniper Rifle Eliminations (HARD)"
-      },
-      {
-        "id": "3.7",
-        "text": "Eliminate opponents in Tilted Towers (HARD)"
-      },
-      {
-        "id": "3.8",
-        "text": "Revive Players"
-      }
-    ]
-  },
-  {
-    "id": "2",
-    "title": "Week 2 Challenges",
-    "challenges": [
-      {
-        "id": "2.1",
-        "text": "Search Chests in Greasy Grove"
-      },
-      {
-        "id": "2.2",
-        "text": "Consume Hop Rocks"
-      },
-      {
-        "id": "2.3",
-        "text": "Deal damage with Suppressed Weapons to opponents"
-      },
-      {
-        "id": "2.4",
-        "text": "Dance in front of <a href=\"https://cdn.gamer-network.net/2018/articles/2018-05-08-17-14/fortnite_camera_dance_locations.jpg\" target=\"_blank\">different film cameras</a>"
-      },
-      {
-        "id": "2.5",
-        "text": "<a href=\"https://cdn.gamer-network.net/2018/articles/2018-05-08-10-51/scarecrow_pink_hotrod_big_screen.jpg\" target=\"_blank\">Search between a Scarecrow, Pink Hotrod, and a Big Screen</a> (HARD)"
-      },
-      {
-        "id": "2.6",
-        "text": "Explosive Weapon Eliminations (HARD)"
-      },
-      {
-        "id": "2.7",
-        "text": "Eliminate opponents in Tomato Town (HARD)"
-      }
-    ]
-  },
-  {
-    "id": 1,
-    "title": "Week 1 Challenges",
-    "challenges": [
-      {
-        "id": "1.1",
-        "text": "Deal damage with Sniper Rifles to opponents"
-      },
-      {
-        "id": "1.2",
-        "text": "Search Chests in Haunted Hills"
-      },
-      {
-        "id": "1.3",
-        "text": "Use a Port-a-Fort"
-      },
-      {
-        "id": "1.4",
-        "text": "<a href=\"https://www.eurogamer.net/articles/2018-05-11-fortnite-letters-5795\" target=\"_blank\">Search F-O-R-T-N-I-T-E Letters</a>"
-      },
-      {
-        "id": "1.5",
-        "text": "Follow the <a href=\"https://cdn.gamer-network.net/2018/articles/2018-05-01-11-37/tomato_town_treasure_map.jpg\" target=\"_blank\"> treasure map found in Tomato Town (HARD)</a>"
-      },
-      {
-        "id": "1.6",
-        "text": "Pistol Eliminations (HARD)"
-      },
-      {
-        "id": "1.7",
-        "text": "Eliminate opponents in Flush Factory (HARD)"
-      }
-    ]
-  },
-  {
-    "id": "c",
-    "title": "Carbide Challenges",
-    "challenges": [
-      {
-        "id": "c.1",
-        "text": "Reach Season Level 10"
-      },
-      {
-        "id": "c.2",
-        "text": "Reach Season Level 20"
-      },
-      {
-        "id": "c.3",
-        "text": "Reach Season Level 30"
-      },
-      {
-        "id": "c.4",
-        "text": "Reach Season Level 40"
-      },
-      {
-        "id": "c.5",
-        "text": "Reach Season Level 50"
-      }
-    ]
-  },
-  {
-    "id": "b",
-    "title": "Blockbuster Challenges",
-    "challenges": [
-      {
-        "id": "b.1",
-        "text": "Complete all challenges in a week"
-      },
-      {
-        "id": "b.2",
-        "text": "Complete all challenges in 2 different weeks"
-      },
-      {
-        "id": "b.3",
-        "text": "Complete all challenges in 3 different weeks"
-      },
-      {
-        "id": "b.4",
-        "text": "Complete all challenges in 4 different weeks"
-      },
-      {
-        "id": "b.5",
-        "text": "Complete all challenges in 5 different weeks"
-      },
-      {
-        "id": "b.6",
-        "text": "Complete all challenges in 6 different weeks"
-      },
-      {
-        "id": "b.7",
-        "text": "Complete all challenges in 7 different weeks"
-      }
-    ]
-  },
-  {
-    "id": "s",
-    "title": "Starter Challenges",
-    "challenges": [
-      {
-        "id": "s.1",
-        "text": "Outlive Opponents"
-      },
-      {
-        "id": "s.2",
-        "text": "Play matches with friends"
-      },
-      {
-        "id": "s.3",
-        "text": "Deal damage to opponents"
-      },
-      {
-        "id": "s.4",
-        "text": "Land at different Named Locations"
-      },
-      {
-        "id": "s.5",
-        "text": "Play Matches"
-      },
-      {
-        "id": "s.6",
-        "text": "Play matches with at least one elmination"
-      },
-      {
-        "id": "s.7",
-        "text": "Win a Match (HARD)"
-      }
-    ]
-  }
-]
+{
+  "id": "s5",
+  "title": "Season 5 Challenges",
+  "challenges": [
+    {
+      "id": "w2",
+      "title": "Week 2 Challenges",
+      "challenges": [
+        {
+          "id": "silver",
+          "title": "Silver",
+          "challenges": [
+            {
+              "id": "1",
+              "text": "Deal damage with Assault Rifles to Opponents",
+              "max": 500,
+              "reward": "5"
+            },
+            {
+              "id": "2",
+              "text": "Search 7 Ammo Boxes in a single match",
+              "max": 7,
+              "reward": "5"
+            },
+            {
+              "id": "3",
+              "text": "Eliminate opponents in Paradise Palms",
+              "max": 3,
+              "reward": "10",
+              "difficulty": "hard"
+            }
+          ]
+        },
+        {
+          "id": "gold",
+          "title": "Gold",
+          "challenges": [
+            {
+              "id": "1",
+              "text": "Score a basket on different hoops",
+              "max": 5,
+              "reward": 5
+            },
+            {
+              "id": "2",
+              "text": "Search Chests in Loot Lake",
+              "max": 7,
+              "reward": 5
+            },
+            {
+              "id": "3",
+              "text": "Search between an oasis, rock archway, and dinosaurs",
+              "max": 1,
+              "reward": 10,
+              "difficulty": "hard"
+            },
+            {
+              "id": "4",
+              "text": "Sniper Rifle Eliminations",
+              "max": 3,
+              "reward": 10,
+              "difficulty": "hard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w1",
+      "title": "Week 1 Challenges",
+      "challenges": [
+        {
+          "id": "silver",
+          "title": "Silver",
+          "challenges": [
+            {
+              "id": "1",
+              "text": "Deal damage with SMGs to Opponents",
+              "max": 1000,
+              "reward": "5"
+            },
+            {
+              "id": "2",
+              "text": "Search a Supply Llama",
+              "max": 1,
+              "reward": "5"
+            },
+            {
+              "id": "3",
+              "text": "Clinger, Stink Bomb, or Grenade Eliminations",
+              "max": 3,
+              "reward": "10",
+              "difficulty": "hard"
+            }
+          ]
+        },
+        {
+          "id": "gold",
+          "title": "Gold",
+          "challenges": [
+            {
+              "id": "1",
+              "text": "Search Chests in Snobby Shores",
+              "max": 7,
+              "reward": 5
+            },
+            {
+              "id": "2",
+              "text": "Search floating Lightning Bolts",
+              "max": 7,
+              "reward": 5
+            },
+            {
+              "id": "3",
+              "text": "Follow the treasure map found in Risky Reels",
+              "max": 1,
+              "reward": 10,
+              "difficulty": "hard"
+            },
+            {
+              "id": "4",
+              "text": "Eliminate opponents in Retail Row",
+              "max": 3,
+              "reward": 10,
+              "difficulty": "hard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road_trip",
+      "title": "Road Trip Challenges",
+      "challenges": [
+        {
+          "id": "1",
+          "text": "Complete all challenges from any week",
+          "reward": "Road Trip Loading Screen #1"
+        },
+        {
+          "id": "2",
+          "text": "Complete all challenges from any 2 different weeks",
+          "reward": "Road Trip Loading Screen #2"
+        },
+        {
+          "id": "3",
+          "text": "Complete all challenges from any 3 different weeks",
+          "reward": "Road Trip Loading Screen #3"
+        },
+        {
+          "id": "4",
+          "text": "Complete all challenges from any 4 different weeks",
+          "reward": "Road Trip Loading Screen #4"
+        },
+        {
+          "id": "5",
+          "text": "Complete all challenges from any 5 different weeks",
+          "reward": "Road Trip Loading Screen #5"
+        },
+        {
+          "id": "6",
+          "text": "Complete all challenges from any 6 different weeks",
+          "reward": "Road Trip Loading Screen #6"
+        },
+        {
+          "id": "7",
+          "text": "Complete all challenges from any 7 different weeks",
+          "reward": "Road Trip Loading Screen #7"
+        }
+      ]
+    },
+    {
+      "id": "drift",
+      "title": "Drift Challenges",
+      "challenges": [
+        {
+          "id": "1",
+          "text": "Gain 10,000 XP",
+          "reward": ""
+        },
+        {
+          "id": "2",
+          "text": "Gain 25,000 XP",
+          "reward": ""
+        },
+        {
+          "id": "3",
+          "text": "Gain 50,000 XP",
+          "reward": ""
+        },
+        {
+          "id": "4",
+          "text": "Gain 100,000 XP",
+          "reward": ""
+        },
+        {
+          "id": "5",
+          "text": "Gain 250,000 XP",
+          "reward": ""
+        }
+      ]
+    }
+  ]
+}

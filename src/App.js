@@ -12,9 +12,11 @@ class App extends Component {
           <h1>Fortnite Challenge Checklist</h1>
         </header>
 
-        {Challenges.map((group, index) => {
-            return <ChallengeGroup key={group.id} group={group}/>
-        })}
+        <ChallengeGroup
+          key={Challenges.id}
+          id={Challenges.id}
+          data={Challenges}
+        />
 
       </div>
     );
